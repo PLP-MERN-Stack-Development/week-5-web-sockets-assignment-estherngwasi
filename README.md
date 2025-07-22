@@ -52,5 +52,5 @@ npm run start
 Go to [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Screenshots
-_  ![Chat App Screenshot](./assets/WEEK4.png)_
+_  ![Chat App Screenshot](assets/WEEK5.PNG)_
 
