@@ -1,0 +1,1 @@
+This folder contains React UI components for the chat application. 

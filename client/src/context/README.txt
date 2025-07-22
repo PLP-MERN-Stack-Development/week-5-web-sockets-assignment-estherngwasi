@@ -1,0 +1,1 @@
+This folder contains React context providers for global state management. 
